@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Why choose us"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -35,20 +35,20 @@ hero_media = "hero-academic.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
+  label = "现在就开始"
   icon_pack = "fas"
   icon = "download"
   
 [cta_alt]
   url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  label = "查看我们的白皮书"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
   label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**现在就用我们的网站来查找药品信息**
 
 Build **Anything** with Widgets
 
