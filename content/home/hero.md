@@ -36,8 +36,8 @@ hero_media = "hero-academic.png"
 [cta]
   url = "https://sourcethemes.com/academic/docs/install/"
   label = "现在就开始"
-  # icon_pack = "fas"
-  # icon = "download"
+  icon_pack = "fab"
+  icon = "ethereum"
   
 [cta_alt]
   url = "https://sourcethemes.com/academic/"
