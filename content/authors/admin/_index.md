@@ -20,8 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: This is a demo version of  MedicineTrace UI
 
-interests:
-- BLock Chain
+
 
 
 # Social/Academic Networking
@@ -44,4 +43,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-This is a project that is absed on IBM Fabric to achieve medicine trace through blockChain and other info technologies so that feak medicines will be killed.
+MedicineTrace药品溯源系统基于区块链技术和其他相关IT技术，使用我们的系统查询各个药品的生产厂家，让生产虚假药品的药厂无处可躲。
