@@ -36,7 +36,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -79,8 +79,14 @@ subtitle = ""
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-***
+
 药品ID|药品名称|生产厂商|生产日期|当前状态|最后更新时间
 :-----: | :----: | :------: | :-----------: | :-----: | :-------:
 sjwt201905010002000001|三九胃泰|三玖|2019.05.01 20:03|已售出|2019.05.10 10:28
@@ -102,3 +108,15 @@ sjwt201905010002000001|三九胃泰|三玖|2019.05.01 20:03|已售出|2019.05.10
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
