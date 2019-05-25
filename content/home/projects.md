@@ -89,25 +89,24 @@ sjwt201905010002000009|三九胃泰|三玖|2019.05.01 20:03|已售出|2019.05.10
 sjwt201905010002000010|三九胃泰|三玖|2019.05.01 20:03|已售出|2019.05.10 10:28
 sjwt201905010002000011|三九胃泰|三玖|2019.05.01 20:03|已售出|2019.05.10 10:28
 
-<br/>
 
-要更新药品信息？点击[这里](https://gracious-curie-04d3ab.netlify.com/ "MedicineTrace")
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+要更新药品信息？点击[这里]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
