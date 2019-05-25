@@ -20,10 +20,15 @@ subtitle = ""
 
 <br/>
 <form action="form_action.asp" method="get">
+<br/>
   用户名: <input type="text" name="name" />
+<br/>
   消费者: <input type="checkbox" name="id" />
+<br/>
   制药厂: <input type="checkbox" name="id" />
+<br/>
   物流商: <input type="checkbox" name="id" />
+<br/>
   销售者: <input type="checkbox" name="id" />
   <input type="submit" value="Submit" />
 </form>
