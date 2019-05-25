@@ -9,19 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "user:firepond"
+  name = "firepond"
   url = "#post"
-  weight = 20
+  weight = 60
 
 [[main]]
   name = "查找药品信息"
   url = "#projects"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "联系我们"
   url = "#contact"
-  weight = 60
+  weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
