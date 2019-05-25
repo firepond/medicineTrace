@@ -77,11 +77,7 @@ subtitle = ""
 
 <form action="form_action.asp" method="get">
 <br/>
-  搜索<input type="text" name="name" />
-<br/>
-  批号<input type="checkbox" name="id" />
-<br/>
-  药品ID<input type="checkbox" name="id" />
+  搜索<input type="text" name="name" />  批号<input type="checkbox" name="id" />  药品ID<input type="checkbox" name="id" />
 <br/>
 </form>
 <br/>
