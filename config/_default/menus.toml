@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "注册/登录"
+  name = "user:firepond"
   url = "#post"
   weight = 20
 
