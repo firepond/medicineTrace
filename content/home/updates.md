@@ -7,9 +7,6 @@ weight = 68  # Order that this section will appear.
 
 title = "更新药品状态"
 subtitle = ""
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
 
 +++
 扫描药品二维码，更新药品状态
