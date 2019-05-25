@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "登录/注册"
+  name = "Customer"
   url = "#post"
   weight = 60
 

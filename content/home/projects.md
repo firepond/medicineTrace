@@ -21,17 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+ # [[content.filter_button]]
+ #   name = "All"
+ #   tag = "*"
 
-  [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+ # [[content.filter_button]]
+ #   name = "Deep Learning"
+ #   tag = "Deep Learning"
 
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+ # [[content.filter_button]]
+ #   name = "Other"
+ #   tag = "Demo"
 
 
 [design]
@@ -74,6 +74,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-药品ID|药品名称|生产厂商|生产日期|当前状态
-:-: | :-: | :-: | :-: | :-:
-y78sab2h|三九胃泰|三九|2019.5.1|已售出
+
+药品ID|药品名称|生产厂商|生产日期|当前状态|最后更新世界
+ :-: | :-: | :-: | :-: | :-: | :-:
+sjwt201905010002000001|三九胃泰|三玖|2019.05.01 20:03|已售出|2019.05.10 10:28
