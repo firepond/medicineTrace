@@ -2,7 +2,7 @@
 widget = "blank"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 # ... Put Your Section Options Here (title etc.) ...
 
 title = "更新药品状态"

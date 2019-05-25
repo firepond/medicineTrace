@@ -20,7 +20,7 @@
 
 [[main]]
   name = "更新药品状态"
-  url = "#update"
+  url = "#updates"
   weight = 15
 
 [[main]]
