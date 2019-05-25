@@ -77,7 +77,7 @@ subtitle = ""
 
 <form action="form_action.asp" method="get">
 <br/>
-<input type="text" name="name" /> <input type="submit" name="搜索批号" /> <input type="submit" name="搜索药品ID" />
+<input type="text" name="name" /> <input type="submit" value="搜索批号" /> <input type="submit" value="搜索药品ID" />
 <br/>
 </form>
 <br/>
