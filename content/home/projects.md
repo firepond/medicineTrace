@@ -104,14 +104,6 @@ sjwt201905010002000011|三九胃泰|三玖|2019.05.01 20:03|已售出|2019.05.10
 <br/>
 <br/>
 <br/>
-<br/>
-<form action="form_action.asp" method="get">
-  First name: <input type="text" name="fname" />
-  Last name: <input type="text" name="lname" />
-  <input type="submit" value="Submit" />
-</form>
-<br/>
-<br/>
-<br/>
+
 <br/>
 <br/>
