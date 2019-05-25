@@ -33,6 +33,9 @@ subtitle = ""
     name = "Other"
     tag = "Demo"
 
+    药品ID|药品名称|生产厂商|生产日期|当前状态
+    y78sabhdusa|三九胃泰|三九|2019.5.1|已售出
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
