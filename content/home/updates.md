@@ -14,7 +14,3 @@ subtitle = ""
 不会更新药品状态？点击[这里]({{< ref "/publication/_index.md" >}}) 查看帮助
 {{% /alert %}}
 
-重回开始页面
-{{% alert note %}}
-[返回开始页面]({{< ref "/hero/_index.md" >}}) 
-{{% /alert %}}
