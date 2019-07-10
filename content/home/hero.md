@@ -39,9 +39,9 @@ hero_media = "hero-academic.png"
   icon_pack = "fab"
   icon = "ethereum"
   
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "查看我们的白皮书"
+#[cta_alt]
+#  url = "https://sourcethemes.com/academic/"
+#  label = "查看我们的白皮书"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
