@@ -5,7 +5,7 @@
 
 [[main]]
   name = "主页"
-  url = "#hero"
+  url = "#about"
   weight = 10
 
 [[main]]
